@@ -1,5 +1,5 @@
 # Autocratism
-An proposal for a new form of anarcho-libertarian-socialism with democratic foundations, protecting against oligarchical totalitarianism.
+A proposal for a new form of anarcho-libertarian-socialism with democratic foundations, protecting against oligarchical totalitarianism.
 Manifesto for a Decentralized, Self-Governing Community
 
 ## Preamble
