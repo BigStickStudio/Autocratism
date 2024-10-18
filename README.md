@@ -1,6 +1,7 @@
 # Autocratism
 A proposal for a new form of anarcho-libertarian-socialism with democratic foundations, protecting against oligarchical totalitarianism.
-Manifesto for a Decentralized, Self-Governing Community
+
+A Manifesto for a Decentralized, Self-Governing Community
 
 ## Preamble
 We, the people, establish this manifesto to guarantee the universal right to freedom, self-regulation, and self-determination. We recognize the necessity of self-honesty, integrity, and mutual respect as the foundation of a thriving society. Our commitment to equity, equality, and contribution ensures that every individual has the opportunity to prosper according to their effort, merit, and ability to persevere. This constitution safeguards against any form of exploitation and ensures that all contributions are valued fairly, while always upholding the rights of others.
