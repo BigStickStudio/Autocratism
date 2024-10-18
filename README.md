@@ -1,5 +1,5 @@
-# Autocratism
-A proposal for a new form of anarcho-libertarian-socialism with democratic foundations, protecting against oligarchical totalitarianism.
+# Libertocracy
+A proposal for a new form of anarcho-syndacalism or libertarian-socialism with democratic foundations, protecting against oligarchical totalitarianism.
 
 A Manifesto for a Decentralized, Self-Governing Community
 
